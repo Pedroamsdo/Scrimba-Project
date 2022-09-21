@@ -1,0 +1,64 @@
+body {
+    background-image: url("nba.jpg");
+    background-size: cover;
+    font-family:  'Times New Roman', Times, serif,Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    height: 100vh
+}
+
+.container{
+    background: white;
+    margin: auto;
+    max-width:80%;
+    border: 3px solid black;
+    border-radius: 10px
+}
+
+h1 {
+    margin-top: 0 px;
+    margin-bottom: 10px;
+    color: blue;
+}
+
+h2 {
+    font-size: 100px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: blue
+}
+
+p{
+    font-size:30px;
+    margin-top:10px;
+    color:blue;
+}
+
+button {
+    border: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: blue;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+    color: black;
+    font-weight: bold;
+}
+
+#save-btn {
+    background: darkgreen;
+    color:black;
+    font-weight: bold;
+}
+#save-el{
+    background: whit;
+    font-weight: bold;
+}
+
